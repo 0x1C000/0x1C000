@@ -1,7 +1,9 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=0x1C000&fontSize=52&color=0:001510,50:003b2f,100:00f5a0" alt="header" />
+  <img src="./banner_0x1c.png" alt="Welcome to the 0x1C Repository" width="100%" />
 </p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building-37124b" />
@@ -87,7 +89,7 @@ Public portfolio/landing.
 
 ---
 
-## 🚀 Now
+## Now
 - eJPT preparation
 - Building/cleaning up tools in **Pentesting-Tools**
 - Building an obfuscator with base64 and AES
@@ -100,5 +102,6 @@ Public portfolio/landing.
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:001510,50:003b2f,100:00f5a0" />
+  <img src="./banner_0x1c.png" alt="Welcome to the 0x1C Repository" width="100%" />
 </p>
+

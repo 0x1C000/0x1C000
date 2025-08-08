@@ -102,6 +102,6 @@ Public portfolio/landing.
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="./banner_0x1c.png" alt="Welcome to the 0x1C Repository" width="100%" />
+  <img src="./footer.png" alt="see you in the dark" width="100%" />
 </p>
 

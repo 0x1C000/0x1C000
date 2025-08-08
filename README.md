@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Win-PowerShell-090013?logo=powershell" />
 </p>
 
-### Hi, I'm **0x1C000** 👋
+### Hi, I'm **0x1C** 👋
 Currently studying for the **eJPT** certification. This is where I keep practical scripts and tools for pentesting, hardening and automation (no OSINT lab here).
 
 ---

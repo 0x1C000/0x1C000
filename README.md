@@ -14,12 +14,12 @@
   <img src="https://img.shields.io/badge/Win-PowerShell-090013?logo=powershell" />
 </p>
 
-### Hi, I'm **0x1C** 👋
+### Hi, I'm **0x1C** 
 Currently studying for the **eJPT** certification. This is where I keep practical scripts and tools for pentesting, hardening and automation (no OSINT lab here).
 
 ---
 
-## 🧩 Badges & Focus
+##  Badges & Focus
 <!-- requested cybersecurity badges -->
 ![OSINT](https://img.shields.io/badge/OSINT-333)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-0b1021?logo=parrotsecurity)
@@ -34,7 +34,7 @@ Currently studying for the **eJPT** certification. This is where I keep practica
 
 ---
 
-## 🛡️ Pentesting-Tools
+##  Pentesting-Tools
 Collection of quick scripts for offensive security.
 
 | Script | Lang | What it does |
@@ -48,19 +48,19 @@ Collection of quick scripts for offensive security.
 
 ---
 
-## 🛰 FlipperZero (payloads & utilities)
+##  FlipperZero (payloads & utilities)
 BadUSB, **IR/RF** emulators, **NFC/RFID** toolkit, **BLE** utilities, GPIO/hardware hacks.  
 🔗 https://github.com/0x1C000/FlipperZero
 
-## 🖥 WindowsScript (security)
+##  WindowsScript (security)
 **CryptoMiner_scanner**: detection + cleanup of malicious miners (processes, scheduled tasks, common persistence points).  
 🔗 https://github.com/0x1C000/WindowsScript
 
-## 🔒 PrivacyTools
+##  PrivacyTools
 Scripts and resources to improve user privacy.  
 🔗 https://github.com/0x1C000/PrivacyTools
 
-## 🌐 Portfolio
+##  Portfolio
 Public portfolio/landing.  
 🔗 https://github.com/0x1C000/0x1C000.github.io
 
@@ -96,7 +96,7 @@ Public portfolio/landing.
 
 ---
 
-## 📫 Contact
+##  Contact
 - **GitHub**: https://github.com/0x1C000
 - **Portfolio**: https://0x1c000.github.io
 

@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=0x1C000&fontAlign=50&fontSize=52&desc=Pentester%20%E2%80%A2%20Builder%20%E2%80%A2%20Security%20Tinkerer&descAlign=50&color=0:090013,50:37124b,100:0ef6ff&stroke=8e2de2&strokeWidth=0" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=0x1C000&fontSize=52&color=0:001510,50:003b2f,100:00f5a0" alt="header" />
 </p>
 
 <p align="center">
@@ -100,5 +100,5 @@ Public portfolio/landing.
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:090013,50:37124b,100:0ef6ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:001510,50:003b2f,100:00f5a0" />
 </p>

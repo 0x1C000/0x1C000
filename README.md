@@ -40,7 +40,8 @@ Collection of quick scripts for offensive security.
 | Script | Lang | What it does |
 |---|---|---|
 | **Browser-Dump.py** | Python | Local dump of stored browser credentials/artifacts for post-exploitation triage and security verification. |
-| **FuryList.bash** | Bash | Wordlist management/generation: merge, dedupe, normalization and slicing for brute-force/fuzzing workflows. |
+| **FuryList.sh** | Bash | Wordlist management/generation: merge, dedupe, normalization and slicing for brute-force/fuzzing workflows. |
+| **FuryListV2.py** | Python | Generate wordlists based on target information; questions can be added to expand and can modify the output limits. |
 | **Wifi-Ghost.sh** | Bash | Wi-Fi auditing: scanning, lock to BSSID/channel, WPA/WPA2 handshake capture and offline cracking pipeline. |
 | **Titano_Destroyer.sh** ⚠️ | Bash | **Extreme anti-forensics**: permanent wipe of logs/histories/cache/FS metadata, volatile memory purge, network traces cleanup, and hardware-level attempts (SSD secure erase, BIOS logs). Designed to sterilize a system before physical decommission. **Dangerous.** |
 

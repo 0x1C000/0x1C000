@@ -58,7 +58,6 @@ BadUSB, **IR/RF** emulators, **NFC/RFID** toolkit, **BLE** utilities, GPIO/hardw
 🔗 https://github.com/0x1C000/WindowsScript
 
 ##  PrivacyTools
-Scripts and resources to improve user privacy.
 **QPG**: QGP is a Python CLI for hybrid post-quantum and ECC secure messaging: keygen, encrypt/decrypt, IPFS-based key revocation.  
 
 🔗 https://github.com/0x1C000/PrivacyTools
